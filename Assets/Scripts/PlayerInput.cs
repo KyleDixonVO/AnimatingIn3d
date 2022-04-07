@@ -7,7 +7,7 @@ using UnityEngine;
 
 public class PlayerInput : MonoBehaviour
 {
-
+    public bool IsRunning;
     private Player player;
     private PlayerMovement playerMovement;
    
